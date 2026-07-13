@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Input/Output files
+input.txt
+output.txt
