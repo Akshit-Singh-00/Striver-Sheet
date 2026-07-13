@@ -30,6 +30,7 @@ int n=arr.size();
 int main(){
     vector<int> vec={1,2,3,4,5};
     brute_left_rotate_one_place(vec);
+    cout<<endl;
     optimal_left_rotate_one_place(vec);
     return 0 ;
 }
