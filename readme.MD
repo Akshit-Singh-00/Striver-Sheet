@@ -18,6 +18,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day | Topics Covered | Problems |
 |-----|----------------|----------|
 | Day 1 | Arrays Basics | Largest Element, Second Largest & Smallest, Check Sorted, Linear Search, Left Rotate by One Place |
+| Day 2 | Array Easy | Maximum Consecutive Ones, Move Zeros to End, Left Rotate Array by K Places, Remove duplicates from Sorted array |
 
 ---
 
@@ -30,6 +31,11 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Check if Array is Sorted | `sorted.cpp` |
 | Linear Search | `linear.cpp` |
 | Left Rotate Array by One Place | `left_rotate_one_place.cpp` |
+|Maximum Consecutive Ones | `consecutive_one.cpp` |
+|Move Zeros to End |`shift_zeros.cpp` |
+|Left Rotate Array by K Places|`kth_shift.cpp`|
+|Remove duplicates from Sorted array|`remove_duplicate.cpp`
+
 
 ---
 
