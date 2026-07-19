@@ -78,7 +78,7 @@ vector<int> optimal_sort_0_1_2(vector<int> arr){
         }
     }
     return arr;
-}
+}//t.c->O(n);s.c->O(1)
 
 int main(){
     vector<int> a={0,1,2,2,1,0,1,2,0};

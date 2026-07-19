@@ -19,27 +19,24 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 |-----|----------------|----------|
 | Day 1 | Arrays Basics | Largest Element, Second Largest & Smallest, Check Sorted, Linear Search, Left Rotate by One Place |
 | Day 2 | Array Easy | Maximum Consecutive Ones, Move Zeros to End, Left Rotate Array by K Places, Remove duplicates from Sorted array |
-| Day 3 | Array Easy | Find missing number, Find the number that appears once, and other numbers twice, Union of two sorted arrays, Two Sum |
+| Day 3 | Array Easy | Find missing number, Find the number that appears once and other numbers twice, Union of two sorted arrays, Two Sum |
+| Day 4 | Arrays Medium | Search in a 2D matrix , leader in an Array , Print the matrix in spiral order |
+| Day 5 | Arrays Medium | Rotate matrix by 90deg , Stock buy and sell , Rearrange array elements by sign , Find the Duplicate number |
+| Day 6 | Kadane's algorithm , Sort an array of 0s 1s & 2s |
+
 
 ---
 
 ## Problems Solved
 
-| Problem | File |
+| Day | Number of Questions |
 |---------|------|
-| Largest Element | `largest.cpp` |
-| Second Largest & Smallest | `second_largest_smallest.cpp` |
-| Check if Array is Sorted | `sorted.cpp` |
-| Linear Search | `linear.cpp` |
-| Left Rotate Array by One Place | `left_rotate_one_place.cpp` |
-|Maximum Consecutive Ones | `consecutive_one.cpp` |
-|Move Zeros to End |`shift_zeros.cpp` |
-|Left Rotate Array by K Places|`kth_shift.cpp`|
-|Remove duplicates from Sorted array|`remove_duplicate.cpp`|
-|Find missing number | `missing_number.cpp`|
-|Find the number that appears once, and other numbers twice |`find_occurence_one.cpp`|
-|Union of two sorted arrays| `union.cpp`|
-|Two sum|`two_sum.cpp` |
+| Day 1 | 05 |
+| Day 2 | 04 |
+| Day 3 | 04 |
+| Day 4 | 03 |
+| Day 5 | 04 |
+| Day 6 | 02 |
 
 
 
