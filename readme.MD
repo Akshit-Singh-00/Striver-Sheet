@@ -23,6 +23,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 4 | Arrays Medium | Search in a 2D matrix , leader in an Array , Print the matrix in spiral order |
 | Day 5 | Array Medium | Rotate matrix by 90deg , Stock buy and sell , Rearrange array elements by sign , Find the Duplicate number |
 | Day 6 | Arrays Medium |Kadane's algorithm , Sort an array of 0s 1s & 2s |
+| Day 7 | Array Medium & hard | Pascal's Traingle , Majority Element , Set Matrix Zero |
 
 
 ---
@@ -37,6 +38,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 4 | 03 |
 | Day 5 | 04 |
 | Day 6 | 02 |
+| Day 7 | 03 |
 
 
 
