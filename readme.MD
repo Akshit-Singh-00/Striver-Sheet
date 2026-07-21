@@ -24,6 +24,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 5 | Array Medium | Rotate matrix by 90deg , Stock buy and sell , Rearrange array elements by sign , Find the Duplicate number |
 | Day 6 | Arrays Medium |Kadane's algorithm , Sort an array of 0s 1s & 2s |
 | Day 7 | Array Medium & hard | Pascal's Traingle , Majority Element , Set Matrix Zero |
+| Day 8 | Array Hard | Next Permutation , Majority Elements 2 , Merge Overlapping Subintervals |
 
 
 ---
@@ -39,6 +40,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 5 | 04 |
 | Day 6 | 02 |
 | Day 7 | 03 |
+| Day 8 | 03 |
 
 
 
