@@ -25,7 +25,8 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 6 | Arrays Medium |Kadane's algorithm , Sort an array of 0s 1s & 2s |
 | Day 7 | Array Medium & hard | Pascal's Traingle , Majority Element , Set Matrix Zero |
 | Day 8 | Array Hard | Next Permutation , Majority Elements 2 , Merge Overlapping Subintervals |
-| Day 9 | Array Hard | Merge two sorted arrays without extra space |
+| Day 9 | Array Hard | Merge two sorted arrays without extra space , Longest Consecutive Sequence in an Array , 	
+Longest subarray with given sum K(positives) |
 
 ---
 
@@ -41,7 +42,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 6 | 02 |
 | Day 7 | 03 |
 | Day 8 | 03 |
-| Day 9 | 01
+| Day 9 | 03 |
 
 
 
