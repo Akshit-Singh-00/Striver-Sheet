@@ -27,6 +27,8 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 | Day 8 | Array Hard | Next Permutation , Majority Elements 2 , Merge Overlapping Subintervals |
 | Day 9 | Array Hard | Merge two sorted arrays without extra space , Longest Consecutive Sequence in an Array , 	
 Longest subarray with given sum K(positives) |
+| Day 10 | Array Hard | Longest subarray with sum K , 	
+Count subarrays with given sum 0 , Count subarrays with given xor K |
 
 ---
 
@@ -43,6 +45,7 @@ Longest subarray with given sum K(positives) |
 | Day 7 | 03 |
 | Day 8 | 03 |
 | Day 9 | 03 |
+| Day 10 | 03 |
 
 
 
