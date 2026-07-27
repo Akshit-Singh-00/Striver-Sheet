@@ -29,7 +29,7 @@ This repository contains my daily solutions to Striver's A2Z DSA problems in **C
 Longest subarray with given sum K(positives) |
 | Day 10 | Array Hard | Longest subarray with sum K , 	
 Count subarrays with given sum 0 , Count subarrays with given xor K |
-| Day 11 | Array Expert | 3 sum problem |
+| Day 11 | Array Expert | 3 sum problem ,  |
 ---
 
 ## Problems Solved
