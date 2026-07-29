@@ -30,7 +30,7 @@ Longest subarray with given sum K(positives) |
 | Day 10 | Array Hard | Longest subarray with sum K , 	
 Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 11 | Array Expert | 3 sum problem , 4 sum problem , Find the repeating and missing number |
-| Day 12 | Array Expert | maximum array product subarray in array |
+| Day 12 | Array Expert | maximum array product subarray in array , merge sorting |
 ---
 
 ## Problems Solved
@@ -48,7 +48,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 9 | 03 |
 | Day 10 | 03 |
 | Day 11 | 03 |
-| Day 12 | 01 |
+| Day 12 | 02 |
 
 
 
