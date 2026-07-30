@@ -20,7 +20,7 @@ while(temp){
 }
 return count;
     }
-};
+}; // t.c->O(n);s.c->O(1)
 
 int main(){
     Node* head=new Node(10);
