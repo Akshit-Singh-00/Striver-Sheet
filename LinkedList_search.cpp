@@ -23,7 +23,7 @@ class solution{
     return false;
 
     }
-};
+};//t.c->O(n);s.c->O(1)
 
 int main(){
     Node* first=new Node(10);
