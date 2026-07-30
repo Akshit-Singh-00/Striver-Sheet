@@ -31,6 +31,7 @@ Longest subarray with given sum K(positives) |
 Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 11 | Array Expert | 3 sum problem , 4 sum problem , Find the repeating and missing number |
 | Day 12 | Array Expert | maximum array product subarray in array , merge sorting |
+------------------------------------------------------------------
 ---
 
 ## Problems Solved
