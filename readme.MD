@@ -32,6 +32,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 11 | Array Expert | 3 sum problem , 4 sum problem , Find the repeating and missing number |
 | Day 12 | Array Expert | maximum array product subarray in array , merge sorting |
 ------------------------------------------------------------------
+| Day 13 | LinkedList Basic | Introduction to singly LinedList |
 ---
 
 ## Problems Solved
@@ -50,6 +51,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 10 | 03 |
 | Day 11 | 03 |
 | Day 12 | 02 |
+| Day 13 | 01 |
 
 
 
