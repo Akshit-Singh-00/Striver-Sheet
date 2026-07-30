@@ -34,7 +34,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | |
 | |
 | |
-| Day 13 | LinkedList Basic | Introduction to singly LinedList |
+| Day 13 | LinkedList Basic | Introduction to singly LinedList , Length of LinkedList  |
 ---
 
 ## Problems Solved
@@ -53,7 +53,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 10 | 03 |
 | Day 11 | 03 |
 | Day 12 | 02 |
-| Day 13 | 01 |
+| Day 13 | 02 |
 
 
 
