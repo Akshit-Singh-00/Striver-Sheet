@@ -4,7 +4,7 @@ using namespace std;
 int binary_lower_bound_1st(vector<int> arr,int x){
 int n=arr.size();
 for(int i=0;i<n;i++){
-    if(arr[i]>x){
+    if(arr[i]>=x){
         return arr[i];
     }
 }
@@ -18,7 +18,7 @@ int binary_lower_bound_2nd(vector<int> arr,int x){
     int ans;
     while(left<right){
         int mid=(left+right)/2;
-        if(arr[mid]>x){
+        if(arr[mid]>=x){
             ans=arr[mid];
             right=mid-1;
         }
