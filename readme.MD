@@ -37,7 +37,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 13 | LinkedList Basic | Introduction to singly LinedList , Length of LinkedList , Search in LinkedList  |
 | Day 14 | Doubly LinkedList Basic | Reverse a Doubly Linked List |
 | Day 15 | Binary search | Lower Bound , Upper Bound |
-| Day 16 | Binary search | find insert position |
+| Day 16 | Binary search | find insert position , Last Occurence of element |
 ---
 
 ## Problems Solved
@@ -59,7 +59,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 13 | 03 |
 | Day 14 | 02 |
 | Day 15 | 03 |
-| Day 16 | 01 |
+| Day 16 | 02 |
 
 
 
