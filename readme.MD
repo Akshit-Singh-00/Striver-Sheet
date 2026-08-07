@@ -38,6 +38,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 14 | Doubly LinkedList Basic | Reverse a Doubly Linked List |
 | Day 15 | Binary search | Lower Bound , Upper Bound |
 | Day 16 | Binary search | find insert position , Last Occurence of element |
+| Day 17 | Binary search | find the occurence of element |
 ---
 
 ## Problems Solved
@@ -60,6 +61,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 14 | 02 |
 | Day 15 | 03 |
 | Day 16 | 03 |
+| Day 17 | 01 |
 
 
 
