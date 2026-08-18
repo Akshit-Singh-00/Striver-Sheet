@@ -80,7 +80,7 @@ void print(Node* head) {
     }
 
     cout << endl;
-}
+} // t.c->O(max(m,n)) ; s.c->O(max(m,n))
 
 int main() {
 
