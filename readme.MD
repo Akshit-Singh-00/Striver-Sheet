@@ -39,7 +39,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 15 | Binary search | Lower Bound , Upper Bound |
 | Day 16 | Binary search | find insert position , Last Occurence of element |
 | Day 17 | Binary search | find the occurence of element |
-| Day 18 | LinkedList Medium | Add two numbers in Linked List |
+| Day 18 | LinkedList Medium | Add two numbers in Linked List , Segregate odd and even nodes in Linked List |
 ---
 
 ## Problems Solved
@@ -63,7 +63,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 15 | 03 |
 | Day 16 | 03 |
 | Day 17 | 02 |
-| Day 18 | 01 |
+| Day 18 | 02 |
 
 
 
