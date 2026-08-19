@@ -40,7 +40,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 16 | Binary search | find insert position , Last Occurence of element |
 | Day 17 | Binary search | find the occurence of element |
 | Day 18 | LinkedList Medium | Add two numbers in Linked List , Segregate odd and even nodes in Linked List |
-| Day 19 | LinkedList Medium | Brute-Sort 0,1&2 |
+| Day 19 | LinkedList Medium | Brute-Sort 0,1&2 , Optimal-Sort 0,1&2 |
 ---
 
 ## Problems Solved
