@@ -1,1 +1,2 @@
-0 0 1 1 2 2 
+Original List: 1 2 0 1 2 0 
+Sorted List: 0 0 1 1 2 2 
