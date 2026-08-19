@@ -1,4 +1,1 @@
-Original List:
-1 -> 2 -> 3 -> 4 -> NULL
-After Segregation:
-2 -> 4 -> 1 -> 3 -> NULL
+0 0 1 1 2 2 
