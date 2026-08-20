@@ -43,7 +43,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 17 | Binary search | find the occurence of element |
 | Day 18 | LinkedList Medium | Add two numbers in Linked List , Segregate odd and even nodes in Linked List |
 | Day 19 | LinkedList Medium | Brute-Sort 0,1&2 , Optimal-Sort 0,1&2 |
-| Day 20 | Binary Search | Search Element in a  Sorted Array , Search Element in a  Sorted Array |
+| Day 20 | Binary Search | Search Element in a  Sorted Array , Search Element in a rotated Sorted Array , Find minimum in Rotated Sorted Array  |
 ---
 
 ## Problems Solved
@@ -69,7 +69,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 17 | 02 |
 | Day 18 | 02 |
 | Day 19 | 02 |
-| Day 20 | 02 |
+| Day 20 | 03 |
 
 
 
