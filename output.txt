@@ -1,1 +1,2 @@
-1 2 3 5 
+Original Linked List 1 5 2 5 1
+The linked list is palindrome
