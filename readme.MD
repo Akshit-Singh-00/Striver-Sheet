@@ -75,7 +75,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 20 | 03 |
 | Day 21 | 02 |
 | Day 22 | 02 |
-| Day 23 | 01 |
+| Day 23 | 02 |
 
 
 
