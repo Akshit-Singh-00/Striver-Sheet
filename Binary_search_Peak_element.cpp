@@ -15,13 +15,30 @@ int brute_BS_search_peak_element(vector<int> arr){
     return -1;
 }//t.c->O(n) ; S.c->O(1)
 
-
+int optimal_BS_search_peak_element(vector<int> arr){
+    int n=arr.size();
+    int low=0;
+    int high=n-1;
+    while (low<high)    
+    {
+        int mid=(low+high)/2;
+        if(arr[mid]>=arr[mid+1]){
+            high=mid;
+        }
+        else{
+            low=mid+1;
+        }
+    }
+    return low;
+    
+}//t.c->O(logn) ; S.c->O(1) 
 
 
 int main(){
     
     vector<int> a={1,2,3,4,5,6,7,8,5,1};
     cout<<"Index is : "<<brute_BS_search_peak_element(a)<<endl;
+    cout<<"Index is : "<<optimal_BS_search_peak_element(a)<<endl;
 
     return 0 ;
 }

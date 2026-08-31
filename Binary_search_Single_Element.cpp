@@ -31,6 +31,7 @@ int optimal__BS_Single_Element(vector<int> arr){
         return arr[low];
 }//t.c->O(logn);s.c->O(1)
 
+
 int main(){
     vector<int> a={1,1,2,2,3,3,4,5,5,6,6};
     cout<<"element is - "<<brute_BS_Single_Element(a)<<endl;
