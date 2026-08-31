@@ -26,7 +26,7 @@ int better_BS_how_manyTimes_sorted(vector<int> arr){
     }
     return -1;
     
-}
+}//t.c->O(n);s.c->O(1)
 
 int main(){
     vector<int> arr = {4,5,6,7,0,1,2,3};
