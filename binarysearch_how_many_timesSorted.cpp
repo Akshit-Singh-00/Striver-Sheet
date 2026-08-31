@@ -28,10 +28,29 @@ int better_BS_how_manyTimes_sorted(vector<int> arr){
     
 }//t.c->O(n);s.c->O(1)
 
+int optimal_BS_how_manyTimes_sorted(vector<int> arr){
+    int low=0;
+    int high=arr.size()-1;
+    while (low<high)
+    {
+        int mid=low+((high-low)/2);
+        
+        if(arr[mid]>high){
+            low=mid+1;
+        }
+        else{
+             high=mid;
+        }
+    }
+    return low+1;
+
+}
+
 int main(){
     vector<int> arr = {4,5,6,7,0,1,2,3};
     cout<<" result-> "<<brute_BS_how_manyTimes_sorted(arr)<<endl;
     cout<<" result-> "<<better_BS_how_manyTimes_sorted(arr)<<endl;
+    cout<<" result-> "<<optimal_BS_how_manyTimes_sorted(arr)<<endl;
 
     return 0 ;
 }
