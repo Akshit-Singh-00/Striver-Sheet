@@ -1,2 +1,1 @@
-Original Linked List: 1 5 2 4 1 
-The linked list is not a palindrome.
+ result-> 4
