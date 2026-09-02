@@ -1,2 +1,2 @@
-Index is : 7
-Index is : 7
+The middle element is :0xfe1490
+The middle element is :3
