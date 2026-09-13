@@ -1,1 +1,1 @@
-Cycle starts at node with value: 2
+Cycle starts at node with value: 0
