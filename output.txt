@@ -1,2 +1,1 @@
-The number is : 3
-The number is : 3
+Loop detected
