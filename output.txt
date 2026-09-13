@@ -1,1 +1,1 @@
-Loop detected in the linked list.
+Cycle starts at node with value: 2
