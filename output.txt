@@ -1,1 +1,1 @@
-Loop detected
+Loop detected in the linked list.
