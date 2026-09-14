@@ -48,7 +48,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 22 | Linked List medium | Brute force - Check if the given Linked List is Palindrome , optimal approach - Check if the given Linked List is Palindrome |
 | Day 23 | Binary Search | Find out how many times the array has been rotated , Search Single Element in a sorted array , Peak element in Array |
 | Day 24 | Linked List , Binary Search | Find middle element in a Linked List , Finding Sqrt of a number using Binary Search , Finding the cube root of numebr using BInary Search |
-| Day 25 | LinkedList | Detect Loop in a linked list , Find the starting of the loop |
+| Day 25 | LinkedList | Detect Loop in a linked list , Find the starting of the loop , Find the length of the Loop in a linked list |
 
 ---
 
@@ -80,7 +80,7 @@ Count subarrays with given sum 0 , Count subarrays with given xor K |
 | Day 22 | 02 |
 | Day 23 | 03 |
 | Day 24 | 04 |
-| Day 25 | 02 |
+| Day 25 | 03 |
 
 ---
 
